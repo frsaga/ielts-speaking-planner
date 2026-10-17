@@ -1,0 +1,7 @@
+dist/
+.venv/
+__pycache__/
+*-backup.json
+*-export.json
+local-*.json
+*.xlsx

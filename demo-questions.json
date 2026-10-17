@@ -1,0 +1,41 @@
+[
+  {
+    "key": "P1-demo-1",
+    "part": "P1",
+    "number": "1",
+    "topic": "Learning",
+    "group": "Learning",
+    "source": "Original public demonstration",
+    "question": "What do you enjoy learning in your free time?",
+    "chinese": "你在空闲时间喜欢学习什么？",
+    "chineseTitle": "",
+    "prompts": "",
+    "initialStatus": "未练"
+  },
+  {
+    "key": "P2-demo-2",
+    "part": "P2",
+    "number": "2",
+    "topic": "Learning",
+    "group": "Learning",
+    "source": "Original public demonstration",
+    "question": "Describe a useful skill you would like to learn.",
+    "chinese": "描述一项你想学习的实用技能。",
+    "chineseTitle": "描述一项你想学习的实用技能。",
+    "prompts": "",
+    "initialStatus": "未练"
+  },
+  {
+    "key": "P3-demo-3",
+    "part": "P3",
+    "number": "3",
+    "topic": "Learning",
+    "group": "Learning",
+    "source": "Original public demonstration",
+    "question": "How can communities make learning more accessible?",
+    "chinese": "社区怎样让学习机会更容易获得？",
+    "chineseTitle": "",
+    "prompts": "",
+    "initialStatus": "未练"
+  }
+]
